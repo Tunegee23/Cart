@@ -19,8 +19,8 @@ function Navbar() {
                 </ul>
             </nav>
 
-            <div className="absolute top-[45%] md:left-[36%] px-6 left-[36%] transform -translate-x-1/2 -translate-y-1/2  text-white">
-                <h2 className="md:text-[40px] mt-[2rem] font-mono md:w-[30px]  md:leading-[3rem] text-[#3c4e50] mb-2">EXPERIENCE OUR BRAND!</h2>
+            <div className="absolute top-[35%] sm:mt-[1rem] md:mt-[4rem] md:left-[36%] px-6 left-[36%] transform -translate-x-1/2 -translate-y-1/2  text-white">
+                <h2 className="md:text-[40px] font-mono md:w-[30px]  md:leading-[3rem] text-[#3c4e50] mb-2">EXPERIENCE OUR BRAND!</h2>
                 <p className="text-[15px] md:text-[18px] w-[90%] md:w-3/4 md:px-0   text-left text-[#3c4e50]">With courage, let's journey forward and craft memories we'll cherish.</p>
             </div> 
             
